@@ -21,9 +21,10 @@
 
 <div align="center">
 
-<img src="https://cdn.ymgal.games/15af5f032454cacee426e6c5607a0c0a2d790248.gif" width="100" alt="绫地宁宁">
+<!-- 这里放宁宁的图，建议上传到 GitHub 仓库 -->
+<img src="https://github.com/razureink/razureink/blob/main/images/nene.gif?raw=true" width="120" alt="绫地宁宁">
 &nbsp;&nbsp;
-<img src="https://c-ssl.dtstatic.com/b0a6a2116192596a8f474185dab0c4a1f9bc1631.gif" width="120" alt="绫地宁宁表情包">
+<img src="https://github.com/razureink/razureink/blob/main/images/nene2.gif?raw=true" width="120" alt="绫地宁宁">
 
 </div>
 
@@ -36,7 +37,8 @@
 
 <div align="right">
 
-<img src="https://c-ssl.duitang.com/8e09e9a82319d911b8e27e28cb506f7abe2d6854.png" width="150" alt="因幡巡">
+<!-- 这里放巡巡的图 -->
+<img src="https://github.com/razureink/razureink/blob/main/images/meguru.png?raw=true" width="150" alt="因幡巡">
 
 </div>
 
@@ -54,7 +56,8 @@
 
 <div align="center">
 
-<img src="https://c-ssl.dtstatic.com/1d17b5e1b7db03074933ff8df30605fe68a2d794.png" width="180" alt="因幡巡">
+<!-- 这里放巡巡的图 -->
+<img src="https://github.com/razureink/razureink/blob/main/images/meguru2.png?raw=true" width="180" alt="因幡巡">
 
 <br>
 
@@ -97,7 +100,8 @@
 
 <br><br>
 
-<img src="https://img.nga.178.com/1b86eff99c0086a7c1bb26288cc7b1de14a8ba76.jpg" width="200" alt="绫地宁宁">
+<!-- 这里放宁宁的图 -->
+<img src="https://github.com/razureink/razureink/blob/main/images/nene3.jpg?raw=true" width="200" alt="绫地宁宁">
 
 <p><i>🧱 用代码搭建方块世界的无限可能 🧱</i></p>
 
@@ -130,7 +134,8 @@
 
 <div align="center">
 
-<img src="https://i2.hdslb.com/0eee7a6063a8a0dd3973760323928db0edd8d4d2.webp" width="200" alt="因幡巡">
+<!-- 这里放巡巡的图 -->
+<img src="https://github.com/razureink/razureink/blob/main/images/meguru3.webp?raw=true" width="200" alt="因幡巡">
 
 </div>
 
