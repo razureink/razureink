@@ -10,8 +10,8 @@
   
   *一个喜爱二次元的开发者，同时也是一名 Minecraft Bukkit API 插件开发者*
 
-  <!-- 打字机效果 - 使用官方 demolab 域名 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=🎮+Minecraft+Bukkit+插件开发者;💻+Kotlin+%7C+Java+%7C+Python;🌸+目标是写出优雅又高效的代码;✨+欢迎来一起交流呀~" alt="Typing SVG" />
+  <!-- 打字机效果 - 使用 herokuapp 域名 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=🎮+Minecraft+Bukkit+插件开发者;💻+Kotlin+%7C+Java+%7C+Python;🌸+目标是写出优雅又高效的代码;✨+欢迎来一起交流呀~" alt="Typing SVG" />
 
 </div>
 
@@ -135,7 +135,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-💖-ff69b4?style=flat-square" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-青墨雨-ff69b4?style=flat-square" alt="Powered by razureink"/>
+  <img src="https://img.shields.io/badge/Powered%20by-二次元-ff69b4?style=flat-square" alt="Powered by anime"/>
 </p>
 
 </div>
