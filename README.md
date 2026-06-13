@@ -21,10 +21,9 @@
 
 <div align="center">
 
-<!-- 这里放宁宁的图，建议上传到 GitHub 仓库 -->
-<img src="https://github.com/razureink/razureink/blob/main/images/nene.gif?raw=true" width="120" alt="绫地宁宁">
+<img src="https://github.com/razureink/razureink/blob/main/nene1.gif?raw=true" width="120" alt="绫地宁宁">
 &nbsp;&nbsp;
-<img src="https://github.com/razureink/razureink/blob/main/images/nene2.gif?raw=true" width="120" alt="绫地宁宁">
+<img src="https://github.com/razureink/razureink/blob/main/nene2.gif_webp?raw=true" width="120" alt="绫地宁宁">
 
 </div>
 
@@ -37,8 +36,7 @@
 
 <div align="right">
 
-<!-- 这里放巡巡的图 -->
-<img src="https://github.com/razureink/razureink/blob/main/images/meguru.png?raw=true" width="150" alt="因幡巡">
+<img src="https://github.com/razureink/razureink/blob/main/meguru1.png?raw=true" width="150" alt="因幡巡">
 
 </div>
 
@@ -56,8 +54,7 @@
 
 <div align="center">
 
-<!-- 这里放巡巡的图 -->
-<img src="https://github.com/razureink/razureink/blob/main/images/meguru2.png?raw=true" width="180" alt="因幡巡">
+<img src="https://github.com/razureink/razureink/blob/main/meguru2.png?raw=true" width="180" alt="因幡巡">
 
 <br>
 
@@ -100,9 +97,6 @@
 
 <br><br>
 
-<!-- 这里放宁宁的图 -->
-<img src="https://github.com/razureink/razureink/blob/main/images/nene3.jpg?raw=true" width="200" alt="绫地宁宁">
-
 <p><i>🧱 用代码搭建方块世界的无限可能 🧱</i></p>
 
 </div>
@@ -132,20 +126,13 @@
 
 </div>
 
-<div align="center">
-
-<!-- 这里放巡巡的图 -->
-<img src="https://github.com/razureink/razureink/blob/main/images/meguru3.webp?raw=true" width="200" alt="因幡巡">
-
-</div>
-
 ---
 
 <div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-💖-ff69b4?style=flat-square" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-二次元-ff69b4?style=flat-square" alt="Powered by anime"/>
+  <img src="https://img.shields.io/badge/Powered%20by-青墨雨-ff69b4?style=flat-square" alt="Powered by anime"/>
 </p>
 
 </div>
